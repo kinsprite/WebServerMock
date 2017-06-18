@@ -24,3 +24,7 @@ var app = connect()
   .use(serveIndex('dist'))
   .listen(3000)
 ;
+
+console.log(' --------------------------------------');
+console.log('       Local: http://localhost:3000');
+console.log(' --------------------------------------');

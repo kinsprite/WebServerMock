@@ -4,4 +4,4 @@
 
 2. Command `npm install` to install dependencies.
 
-3. Command `node index.js` to star the server at `http://127.0.0.1:3000`.
+3. Command `node index.js` to start the server at `http://127.0.0.1:3000`.
